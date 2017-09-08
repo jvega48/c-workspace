@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\jose\desktop\c#-workspace\program_one\program_one\source.c(17): warning C4013: 'system' undefined; assuming extern returning int
+  program_one.vcxproj -> C:\Users\Jose\Desktop\c#-workspace\program_one\Debug\program_one.exe
+  program_one.vcxproj -> C:\Users\Jose\Desktop\c#-workspace\program_one\Debug\program_one.pdb (Full PDB)
